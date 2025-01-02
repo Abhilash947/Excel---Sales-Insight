@@ -1,16 +1,16 @@
 Atliq Hardware Business Intelligence Reports
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Introduction:
+> Introduction:
 
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
-Problem Statement
+> Problem Statement
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
-Sales Analysis
+> Sales Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives
 
@@ -42,8 +42,8 @@ Top 5 Sales Countries in 2021
 Insights:
 India led with $161.3 million in sales.
 Strong sales also noted in the USA, South Korea, the UK, and Canada.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Financial Analysis
+
+>Financial Analysis
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives
 
@@ -72,9 +72,9 @@ Insights: Japan and New Zealand showed the highest profit margins, while Germany
 Quarterly Gross Margin Percentage (GM%) by Location
 
 Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Overall Insights
 
+Overall Insights
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 * Top 10 Products: Continued strong performance of key products from 2020 to 2021.
 * Market Performance vs. Target: Insights into market performance relative to sales goals.
